@@ -1,0 +1,7 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Taj Mahal
+Author: Enter Inventive Studio
+URL: https://poly.google.com/view/ajc6GfQ7_d_
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
